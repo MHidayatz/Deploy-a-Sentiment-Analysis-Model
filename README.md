@@ -27,3 +27,7 @@ The final project will be executed in a simple html page which can be deployed a
 You will see the following:
 
 ![Web app example](./imp.gif.gif) 
+
+---
+
+> This project was submitted as a part of the Machine Learning Engineering Nanodegree Program at Udacity
